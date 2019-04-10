@@ -1,0 +1,248 @@
+##############################################################
+138
+##############################################################
+*****************************************
+ 
+Interface name : Wi-Fi 
+There are 4 networks currently visible. 
+
+SSID 1 : mynet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : f4:f2:6d:45:2c:ba
+         Signal             : 94%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : Aula 337
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 90:f6:52:e6:aa:78
+         Signal             : 54%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 3 : aula237
+    Network type            : Infrastructure
+    Authentication          : WPA-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c8:3a:35:4d:e3:a8
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 9 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+SSID 4 : BUET_WiFi
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 18:64:72:ac:e8:a0
+         Signal             : 58%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+*****************************************
+ 
+Interface name : Wi-Fi 
+There are 4 networks currently visible. 
+
+SSID 1 : mynet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : f4:f2:6d:45:2c:ba
+         Signal             : 94%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : Aula 337
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 90:f6:52:e6:aa:78
+         Signal             : 54%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 3 : aula237
+    Network type            : Infrastructure
+    Authentication          : WPA-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c8:3a:35:4d:e3:a8
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 9 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+SSID 4 : BUET_WiFi
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 18:64:72:ac:e8:a0
+         Signal             : 58%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+*****************************************
+ 
+Interface name : Wi-Fi 
+There are 4 networks currently visible. 
+
+SSID 1 : mynet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : f4:f2:6d:45:2c:ba
+         Signal             : 94%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : Aula 337
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 90:f6:52:e6:aa:78
+         Signal             : 54%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 3 : aula237
+    Network type            : Infrastructure
+    Authentication          : WPA-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c8:3a:35:4d:e3:a8
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 9 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+SSID 4 : BUET_WiFi
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 18:64:72:ac:e8:a0
+         Signal             : 58%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+*****************************************
+ 
+Interface name : Wi-Fi 
+There are 4 networks currently visible. 
+
+SSID 1 : mynet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : f4:f2:6d:45:2c:ba
+         Signal             : 94%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : Aula 337
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 90:f6:52:e6:aa:78
+         Signal             : 54%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 3 : aula237
+    Network type            : Infrastructure
+    Authentication          : WPA-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c8:3a:35:4d:e3:a8
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 9 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+SSID 4 : BUET_WiFi
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 18:64:72:ac:e8:a0
+         Signal             : 58%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+*****************************************
+ 
+Interface name : Wi-Fi 
+There are 4 networks currently visible. 
+
+SSID 1 : mynet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : f4:f2:6d:45:2c:ba
+         Signal             : 94%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : Aula 337
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 90:f6:52:e6:aa:78
+         Signal             : 54%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 3 : aula237
+    Network type            : Infrastructure
+    Authentication          : WPA-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c8:3a:35:4d:e3:a8
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 9 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
+SSID 4 : BUET_WiFi
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 18:64:72:ac:e8:a0
+         Signal             : 58%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2
+         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
+
